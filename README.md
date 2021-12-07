@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou o @IgorATHR
+- 👀 Eu estou interessado em aprender códigos e me envolver em projetos para melhorar meu portfólio ajudando a comunidade.
+- 🌱  Atualmente estou aprendendo Desenvolvimento WEB. 
+- 📫  Para me encontrar basta me enviar um e-amil para igor_arthur_tr@hotmail.com .
